@@ -1,5 +1,5 @@
 import React , {useState, useEffect} from 'react'
-import styles from '../styles/Comments.module.css'
+import styles from '../styles/Commets.module.css'
 import CommentCard from './CommentCard'
 const Comments =({
     onHide,
